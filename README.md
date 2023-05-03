@@ -3,7 +3,7 @@
 ## The Plan
 
 ### The Function
-- I am making a message generator that outputs a random 3 part workout plan. Each workout has a Push, Pull, Hip-hinge and Squat Movement.
+- I am making a message generator that outputs a random 4 part workout plan. Each workout has a Push, Pull, Hip-hinge and Squat Movement.
 
 ### Built with
 - Visual studio code
